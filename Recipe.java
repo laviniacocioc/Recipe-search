@@ -1,8 +1,3 @@
-
-/**
- *
- * @author Lavinia
- */
 import java.util.*;
 
 
